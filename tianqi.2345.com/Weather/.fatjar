@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 07 15:20:52 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=Weather.jar
+manifest.mergeall=true
+manifest.mainclass=com.limyao.quartz.CronTriggerRunner
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

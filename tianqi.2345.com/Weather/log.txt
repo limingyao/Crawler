@@ -1,0 +1,47 @@
+0    2014-01-23 20:38:2874 [main] INFO  org.quartz.impl.StdSchedulerFactory  - Using default implementation for ThreadExecutor
+26   2014-01-23 20:38:28100 [main] INFO  org.quartz.simpl.SimpleThreadPool  - Job execution threads will use class loader of thread: main
+38   2014-01-23 20:38:28112 [main] INFO  org.quartz.core.SchedulerSignalerImpl  - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+38   2014-01-23 20:38:28112 [main] INFO  org.quartz.core.QuartzScheduler  - Quartz Scheduler v.2.2.1 created.
+40   2014-01-23 20:38:28114 [main] INFO  org.quartz.simpl.RAMJobStore  - RAMJobStore initialized.
+41   2014-01-23 20:38:28115 [main] INFO  org.quartz.core.QuartzScheduler  - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+41   2014-01-23 20:38:28115 [main] INFO  org.quartz.impl.StdSchedulerFactory  - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+41   2014-01-23 20:38:28115 [main] INFO  org.quartz.impl.StdSchedulerFactory  - Quartz scheduler version: 2.2.1
+66   2014-01-23 20:38:28140 [main] INFO  org.quartz.core.QuartzScheduler  - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+92066 2014-01-23 20:40:00140 [Thread-1] INFO  com.limyao.job.JobThread  - 开始抓取信息......2014-01-23 20:40:00
+92066 2014-01-23 20:40:00140 [Thread-1] INFO  com.limyao.crawler.Crawler  - 闵行明天url http://tianqi.2345.com/tomorrow-58362.htm
+97479 2014-01-23 20:40:05553 [Thread-1] INFO  com.limyao.job.JobThread  - 抓取信息结束......2014-01-23 20:40:05
+97479 2014-01-23 20:40:05553 [Thread-1] INFO  com.limyao.job.JobThread  - 上海每小时天气预报（明天01月24日）
+97479 2014-01-23 20:40:05553 [Thread-1] INFO  com.limyao.job.JobThread  - 00点 晴 5℃
+01点 晴 5℃
+02点 晴 5℃
+03点 晴 5℃
+04点 晴 5℃
+05点 晴 5℃
+06点 多云 5℃
+07点 多云 6℃
+08点 阴 7℃
+09点 阴 9℃
+10点 阴 10℃
+11点 阴 12℃
+12点 阴 13℃
+13点 阴 13℃
+14点 阴 14℃
+15点 多云 13℃
+16点 多云 12℃
+17点 多云 11℃
+18点 多云 10℃
+19点 多云 9℃
+20点 多云 9℃
+21点 多云 9℃
+22点 多云 9℃
+23点 多云 9℃
+
+97479 2014-01-23 20:40:05553 [Thread-1] INFO  com.limyao.job.JobThread  - 开始发送邮件......2014-01-23 20:40:05
+98201 2014-01-23 20:40:06275 [Thread-1] INFO  com.limyao.job.JobThread  - 发送邮件结束......2014-01-23 20:40:06

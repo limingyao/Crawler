@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>爬虫参数配置</comment>
+	<entry key="url">http://tianqi.2345.com/tomorrow-58362.htm</entry>
+	<entry key="second">5</entry>
+	<entry key="MailServerHost">smtp.126.com</entry>
+	<entry key="MailServerPort">25</entry>
+	<entry key="email">info4program@126.com</entry>
+	<entry key="passwd">lmy159753</entry>
+	<entry key="fromemailaddress">info4program@126.com</entry>
+	<entry key="toemailaddress">limingyao@live.com</entry>
+	<entry key="cronExpression">0 40 20 ? * *</entry>
+</properties>
