@@ -1,0 +1,12 @@
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.pdb
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\NSoup.dll
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\obj\Debug\DianpingLib.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.exe
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\NSoup.dll
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\obj\Debug\DianpingLib.exe
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\obj\Debug\DianpingLib.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.exe.config
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.dll.config
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\bin\Debug\DianpingLib.dll
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingLib\obj\Debug\DianpingLib.dll

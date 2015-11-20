@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DianpingCatalogCrawler", "DianpingCatalogCrawler\DianpingCatalogCrawler.csproj", "{44BB73C5-8AF6-4764-9750-C611E6969F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DianpingShopCrawler", "DianpingShopCrawler\DianpingShopCrawler.csproj", "{D57AB1BC-33CC-4C81-BE76-A96307386BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db_MySQL", "db_MySQL\db_MySQL.csproj", "{24AA9309-60E8-4A0C-A2C2-11F74DCC1E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DianpingLib", "DianpingLib\DianpingLib.csproj", "{50398924-C88F-4FA5-A01A-75C6260D6D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BB73C5-8AF6-4764-9750-C611E6969F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BB73C5-8AF6-4764-9750-C611E6969F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BB73C5-8AF6-4764-9750-C611E6969F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BB73C5-8AF6-4764-9750-C611E6969F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57AB1BC-33CC-4C81-BE76-A96307386BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57AB1BC-33CC-4C81-BE76-A96307386BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57AB1BC-33CC-4C81-BE76-A96307386BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57AB1BC-33CC-4C81-BE76-A96307386BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AA9309-60E8-4A0C-A2C2-11F74DCC1E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AA9309-60E8-4A0C-A2C2-11F74DCC1E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AA9309-60E8-4A0C-A2C2-11F74DCC1E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AA9309-60E8-4A0C-A2C2-11F74DCC1E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50398924-C88F-4FA5-A01A-75C6260D6D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50398924-C88F-4FA5-A01A-75C6260D6D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50398924-C88F-4FA5-A01A-75C6260D6D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50398924-C88F-4FA5-A01A-75C6260D6D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

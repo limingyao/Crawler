@@ -1,0 +1,9 @@
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\bin\Debug\DianpingCrawler.exe
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\bin\Debug\DianpingCrawler.pdb
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.csprojResolveAssemblyReference.cache
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.Dianping.resources
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.Properties.Resources.resources
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.csproj.GenerateResource.Cache
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.exe
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\obj\Debug\DianpingCrawler.pdb
+E:\Project\visual studio 2012\Projects\DianpingCrawler\DianpingCrawler\bin\Debug\NSoup.dll
