@@ -1,0 +1,14 @@
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\Client.exe.config
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.Form1.resources
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.Properties.Resources.resources
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\Client.exe
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\Client.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\db_SQLServer.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\NSoup.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\log4net.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\db_SQLServer.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\bin\Debug\log4net.xml
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.exe
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\Client\obj\Debug\Client.pdb

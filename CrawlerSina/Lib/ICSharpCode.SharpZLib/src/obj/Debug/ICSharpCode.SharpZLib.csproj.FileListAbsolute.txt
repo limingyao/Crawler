@@ -1,0 +1,6 @@
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\bin\ICSharpCode.SharpZipLib.xml
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\bin\ICSharpCode.SharpZipLib.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\bin\ICSharpCode.SharpZipLib.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\src\obj\Debug\ICSharpCode.SharpZipLib.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\src\obj\Debug\ICSharpCode.SharpZipLib.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\ICSharpCode.SharpZLib\src\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache

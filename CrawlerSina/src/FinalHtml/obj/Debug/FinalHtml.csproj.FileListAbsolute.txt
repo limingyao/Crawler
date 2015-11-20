@@ -1,0 +1,14 @@
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\bin\Debug\FinalHtml.exe
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\bin\Debug\FinalHtml.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\obj\Debug\FinalHtml.Properties.Resources.resources
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\obj\Debug\FinalHtml.csproj.GenerateResource.Cache
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\obj\Debug\FinalHtml.exe
+F:\baiduyun\Project\visual studio 2012\Projects\Weather\FinalHtml\obj\Debug\FinalHtml.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\bin\Debug\FinalHtml.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\bin\Debug\FinalHtml.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\bin\Debug\NSoup.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\obj\Debug\FinalHtml.csprojResolveAssemblyReference.cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\obj\Debug\FinalHtml.Properties.Resources.resources
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\obj\Debug\FinalHtml.csproj.GenerateResource.Cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\obj\Debug\FinalHtml.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\FinalHtml\obj\Debug\FinalHtml.pdb

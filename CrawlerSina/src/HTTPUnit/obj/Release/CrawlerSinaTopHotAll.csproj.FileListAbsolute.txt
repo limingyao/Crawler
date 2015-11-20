@@ -1,0 +1,10 @@
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\CrawlerSinaTopHotAll.exe
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\CrawlerSinaTopHotAll.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\log4net.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\Newtonsoft.Json.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\NSoup.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\log4net.xml
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\Newtonsoft.Json.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\bin\Release\Newtonsoft.Json.xml
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\obj\Release\CrawlerSinaTopHotAll.exe
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\src\CrawlerSinaTopHotAll\obj\Release\CrawlerSinaTopHotAll.pdb

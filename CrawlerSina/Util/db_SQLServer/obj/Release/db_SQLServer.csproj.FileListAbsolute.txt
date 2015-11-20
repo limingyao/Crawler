@@ -1,0 +1,13 @@
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\db_SQLServer.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\db_SQLServer.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\log4net.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\log4net.xml
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\obj\Release\db_SQLServer.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\obj\Release\db_SQLServer.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\obj\Release\db_SQLServer.csprojResolveAssemblyReference.cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\db_SQLServer.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\db_SQLServer.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\log4net.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\bin\Release\log4net.xml
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\obj\Release\db_SQLServer.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Util\db_SQLServer\obj\Release\db_SQLServer.pdb

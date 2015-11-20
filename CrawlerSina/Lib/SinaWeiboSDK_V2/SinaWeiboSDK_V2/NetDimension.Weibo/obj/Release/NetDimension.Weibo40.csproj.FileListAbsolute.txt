@@ -1,0 +1,35 @@
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.dll
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.pdb
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.dll
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.pdb
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.xml
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\ResolveAssemblyReference.cache
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.dll
+e:\visual studio workplace\Projects\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.pdb
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.dll
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.pdb
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.pdb
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.xml
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo40.csprojResolveAssemblyReference.cache
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.dll
+E:\visual studio workplace\weibosdk-23362\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.pdb
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.XML
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.dll
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.pdb
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.pdb
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\MongoDB.Bson.xml
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo40.csprojResolveAssemblyReference.cache
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.dll
+E:\项目\数据抓取平台\程序\CrawlerSinaData\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.XML
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.pdb
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo40.csprojResolveAssemblyReference.cache
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.dll
+F:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.XML
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\bin\Release\NET40\NetDimension.Weibo.pdb
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo40.csprojResolveAssemblyReference.cache
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.dll
+E:\baiduyun\Project\visual studio 2012\Projects\CrawlerSina\Lib\SinaWeiboSDK_V2\SinaWeiboSDK_V2\NetDimension.Weibo\obj\Release\NetDimension.Weibo.pdb
